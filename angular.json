@@ -447,7 +447,7 @@
       }
     }
   },
-  "defaultProject": "beehive-RGB",
+  "defaultProject": "beehive-red",
   "cli": {
     "analytics": "9ed2164f-4ed5-4fba-a45d-cab8809e4429"
   }
