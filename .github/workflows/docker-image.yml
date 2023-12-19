@@ -35,6 +35,6 @@ jobs:
     - name : Install dependencies
       run: npm install
     - name: Build
-      run: npm run build
+      run: npm run build --project=beehive-red
 #    - name: Build the Docker image
 #      run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
